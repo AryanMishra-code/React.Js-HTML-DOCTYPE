@@ -1,0 +1,42 @@
+h1{
+    color : black;
+    
+}
+
+.header{
+    background: radial-gradient(red, yellow, green, orange, blue);
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-color: black;
+}
+.header2{
+    background: linear-gradient(to right, red, yellow, magenta);
+    border-color: black;
+    padding : 0px;
+   
+}
+.header3{
+    background: linear-gradient(to Bottom, gold, magenta, orangered, yellow);
+}
+.linker{
+    border-color: darkred;
+    background: radial-gradient(red, yellow, indigo, yellowgreen);
+}
+.typo{
+    padding : 10px;
+    background: linear-gradient(to Bottom, blue, turquoise, violet, red, yellow, orange, green, magenta);
+}
+
+.head1{
+    border: solid;
+    background: linear-gradient(to Top, red, yellow, magenta, orangered);
+}
+.head2{
+    border: solid;
+    background: linear-gradient(to Bottom, red, yellow, magenta, orangered);
+}
+.grid{
+    background-color: darkcyan;
+    border-color: black;
+}
